@@ -3,24 +3,17 @@
 https://lazypredict.readthedocs.io/en/latest/usage.html#classification
 
 References: 
+
 Cyprien Cambus
+
 https://www.linkedin.com/in/cyprien-cambus/
+
 Documentation of lazypredict
+
 GitHub of lazypredict
+
 Usage
 
- "source": [
-        "# **How to quickly compare ML models using lazypredict**\n",
-        "\n",
-        "Chanin Nantasenamat\n",
-        "\n",
-        "[Data Professor](http://youtube.com/dataprofessor), http://youtube.com/dataprofessor\n",
-        "\n",
-        "**Reference:**\n",
-        "- Author of lazypredict is Shankar Rao Pandala\n",
-        "- [Documentation](https://lazypredict.readthedocs.io/) of lazypredict\n",
-        "- [GitHub](https://github.com/shankarpandala/lazypredict) of lazypredict"
-      ]
 
 To use Lazy Predict in a project:
 
