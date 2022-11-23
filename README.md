@@ -2,7 +2,11 @@
 
 https://lazypredict.readthedocs.io/en/latest/usage.html#classification
 
-
+References: 
+Cyprien Cambus
+https://www.linkedin.com/in/cyprien-cambus/
+Documentation of lazypredict
+GitHub of lazypredict
 Usage
 
 To use Lazy Predict in a project:
